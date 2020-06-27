@@ -1,0 +1,69 @@
+{
+    "batonclang": {
+    "sounds": [
+        "baton/clang1",
+        "baton/clang2",
+        "baton/clang3"
+        ]
+    },
+    "whoosh": {
+    "sounds": [
+        "motion/whoosh1",
+        "motion/whoosh2",
+        "motion/whoosh3"
+        ]
+    },
+    "run": {
+    "sounds": [
+        "motion/flash/run/run1",
+        "motion/flash/run/run2",
+        "motion/flash/run/run3",
+	"motion/flash/run/run4",
+	"motion/flash/run/run5",
+	"motion/flash/run/run6",
+	"motion/flash/run/run7"
+        ]
+    },
+    "slowdown": {
+    "sounds": [
+        "motion/flash/slowmo/slowdown/slowdown1",
+	"motion/flash/slowmo/slowdown/slowdown2"
+        ]
+    },
+    "vibrate": {
+    "sounds": [
+      "motion/flash/vibrate"
+    ]
+  },
+    "slowvibrate": {
+    "sounds": [
+      "motion/flash/slowvibrate"
+    ]
+  },
+    "speedup": {
+    "sounds": [
+        "motion/flash/slowmo/speedup/speedup1",
+	"motion/flash/slowmo/speedup/speedup2"
+        ]
+    },
+    "flightcharge": {
+    "sounds": [
+        "motion/flightcharge"
+        ]
+    },
+    "regenerate": {
+    "sounds": [
+      "actions/timelord/regenerate"
+    ]
+  },
+    "massexplosion": {
+    "sounds": [
+      "actions/timelord/massexplosion"
+    ]
+  },
+    "grapple": {
+    "sounds": [
+        "baton/retract"
+        ]
+    }
+}

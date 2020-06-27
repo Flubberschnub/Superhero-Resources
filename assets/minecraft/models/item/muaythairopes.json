@@ -1,0 +1,63 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "items/muayropes",
+		"particle": "items/muayropes"
+	},
+	"elements": [
+		{
+			"name": "right_arm_2nd_layer",
+			"from": [11.5, 11, 5.5],
+			"to": [16.49, 16, 10.5],
+			"faces": {
+				"north": {"uv": [0, 0, 4.99, 5], "texture": "#0"},
+				"east": {"uv": [0, 0, 5, 5], "texture": "#0"},
+				"south": {"uv": [0, 0, 4.99, 5], "texture": "#0"},
+				"west": {"uv": [0, 0, 5, 5], "texture": "#0"},
+				"up": {"uv": [11, 0, 15.99, 5], "texture": "#0"},
+				"down": {"uv": [5, 0, 9.99, 5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [-6, -2, -3.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 180, 0],
+			"translation": [-6, -2, -3.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [-45, 0, 0],
+			"translation": [0, -5.75, 0.75],
+			"scale": [1, 1.31, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-45, 0, 0],
+			"translation": [10, -5, 2.5],
+			"scale": [1, 1.31, 1]
+		},
+		"ground": {
+			"translation": [-5.75, 0, 0]
+		},
+		"gui": {
+			"translation": [-8.75, -8, 0],
+			"scale": [1.49, 1.49, 1.49]
+		},
+		"head": {
+			"translation": [-9.5, 1.25, 0],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"translation": [-10.75, -9.5, 0],
+			"scale": [1.81, 1.81, 1.81]
+		}
+	},
+	"groups": [
+		{
+			"name": "steve",
+			"children": [0]
+		}
+	]
+}
